@@ -17,14 +17,14 @@ st.markdown("Predict attrition risk, understand drivers, and analyze exit sentim
 # ── Load assets ───────────────────────────────────────────────
 @st.cache_resource
 def load_assets():
-    model  = joblib.load("models/logistic_regression.pkl")
-    scaler = joblib.load("models/scaler.pkl")
+    model  = joblib.load("logistic_regression.pkl")
+    scaler = joblib.load("scaler.pkl")
     return model, scaler
 
 @st.cache_data
 def load_data():
-    df    = pd.read_csv("data/raw/hr_attrition.csv")
-    exits = pd.read_csv("data/processed/exit_survey.csv")
+    df    = pd.read_csv("hr_attrition.csv")
+    exits = pd.read_csv("exit_survey.csv")
     return df, exits
 
 model, scaler = load_assets()
