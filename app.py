@@ -107,6 +107,16 @@ with tab2:
     }
 
     fv = pd.DataFrame([feature_vector])
+    feature_cols = ['Age', 'DailyRate', 'DistanceFromHome', 'Education',
+                'EnvironmentSatisfaction', 'HourlyRate', 'JobInvolvement',
+                'JobSatisfaction', 'MonthlyIncome', 'MonthlyRate',
+                'NumCompaniesWorked', 'PercentSalaryHike', 'PerformanceRating',
+                'RelationshipSatisfaction', 'StockOptionLevel', 'TotalWorkingYears',
+                'TrainingTimesLastYear', 'WorkLifeBalance', 'YearsAtCompany',
+                'YearsInCurrentRole', 'YearsSinceLastPromotion', 'YearsWithCurrManager',
+                'BusinessTravel', 'Department', 'EducationField', 'Gender',
+                'JobRole', 'MaritalStatus', 'OverTime']
+    fv = fv[feature_cols]
     fv_scaled = scaler.transform(fv)
     prob = model.predict_proba(fv_scaled)[0][1]
 
