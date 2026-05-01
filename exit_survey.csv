@@ -1,0 +1,238 @@
+exit_reason,exit_comment,sentiment_label,sentiment_score
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+growth,I waited two years for a promotion that never came,Neutral,0.0
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+compensation,Pay increases were minimal and did not reflect my contributions,Neutral,-0.1027
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+growth,I felt stuck in the same role with no way forward,Negative,-0.4939
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+growth,I waited two years for a promotion that never came,Neutral,0.0
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+growth,Management never discussed my career goals with me,Neutral,0.0
+growth,Management never discussed my career goals with me,Neutral,0.0
+manager,My manager provided very little support or feedback,Positive,0.399
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+compensation,Pay increases were minimal and did not reflect my contributions,Neutral,-0.1027
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+growth,I felt stuck in the same role with no way forward,Negative,-0.4939
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+compensation,Pay increases were minimal and did not reflect my contributions,Neutral,-0.1027
+growth,Management never discussed my career goals with me,Neutral,0.0
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+growth,Management never discussed my career goals with me,Neutral,0.0
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+growth,I felt stuck in the same role with no way forward,Negative,-0.4939
+growth,Management never discussed my career goals with me,Neutral,0.0
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+growth,Management never discussed my career goals with me,Neutral,0.0
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+growth,Management never discussed my career goals with me,Neutral,0.0
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+compensation,The compensation package was below industry standard,Neutral,0.0
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+growth,Management never discussed my career goals with me,Neutral,0.0
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+compensation,The compensation package was below industry standard,Neutral,0.0
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+manager,My manager provided very little support or feedback,Positive,0.399
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+compensation,The compensation package was below industry standard,Neutral,0.0
+compensation,Pay increases were minimal and did not reflect my contributions,Neutral,-0.1027
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+compensation,The compensation package was below industry standard,Neutral,0.0
+manager,My manager provided very little support or feedback,Positive,0.399
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+manager,My manager provided very little support or feedback,Positive,0.399
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+growth,I waited two years for a promotion that never came,Neutral,0.0
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+growth,I waited two years for a promotion that never came,Neutral,0.0
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,My manager provided very little support or feedback,Positive,0.399
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+growth,I felt stuck in the same role with no way forward,Negative,-0.4939
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+manager,My manager provided very little support or feedback,Positive,0.399
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+manager,My manager provided very little support or feedback,Positive,0.399
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+growth,Management never discussed my career goals with me,Neutral,0.0
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+manager,My manager provided very little support or feedback,Positive,0.399
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+environment,I did not feel safe raising concerns with my manager,Negative,-0.3412
+manager,There was a complete lack of communication from leadership,Negative,-0.3182
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+compensation,The compensation package was below industry standard,Neutral,0.0
+growth,I waited two years for a promotion that never came,Neutral,0.0
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+manager,My manager provided very little support or feedback,Positive,0.399
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+overtime,"No respect for personal time, always expected to be available",Negative,-0.3724
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+manager,I had a poor relationship with my direct manager,Negative,-0.4767
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+overtime,The overtime expectations were unreasonable and unsustainable,Neutral,0.0
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+growth,There was no clear career path or growth opportunity here,Positive,0.4966
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+environment,The environment was not inclusive and I felt overlooked,Neutral,-0.0258
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+manager,Management style was micromanaging and trust was absent,Positive,0.5106
+manager,My manager took credit for my work repeatedly,Positive,0.3818
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+environment,The office environment was toxic and management ignored complaints,Negative,-0.6124
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+compensation,Despite good performance reviews my pay never improved,Negative,-0.6553
+growth,Skills development was not supported or encouraged,Negative,-0.4717
+compensation,I received a much better offer elsewhere with better benefits,Positive,0.8126
+compensation,My salary was not competitive compared to market rates,Neutral,-0.1326
+compensation,The compensation package was below industry standard,Neutral,0.0
+overtime,The workload was crushing and never got better despite raising it,Negative,-0.6002
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+overtime,I was constantly working late with no work-life balance at all,Neutral,-0.296
+compensation,The compensation package was below industry standard,Neutral,0.0
+growth,Management never discussed my career goals with me,Neutral,0.0
+overtime,I burned out from working weekends and late nights for months,Neutral,0.0
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
+environment,The workplace culture was very negative and demotivating,Negative,-0.6115
+environment,Poor team dynamics and constant internal conflicts,Negative,-0.5574
