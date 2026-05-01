@@ -107,17 +107,8 @@ with tab2:
     }
 
     fv = pd.DataFrame([feature_vector])
-    feature_cols = ['Age', 'DailyRate', 'DistanceFromHome', 'Education',
-                'EnvironmentSatisfaction', 'HourlyRate', 'JobInvolvement',
-                'JobSatisfaction', 'MonthlyIncome', 'MonthlyRate',
-                'NumCompaniesWorked', 'PercentSalaryHike', 'PerformanceRating',
-                'RelationshipSatisfaction', 'StockOptionLevel', 'TotalWorkingYears',
-                'TrainingTimesLastYear', 'WorkLifeBalance', 'YearsAtCompany',
-                'YearsInCurrentRole', 'YearsSinceLastPromotion', 'YearsWithCurrManager',
-                'BusinessTravel', 'Department', 'EducationField', 'Gender',
-                'JobRole', 'MaritalStatus', 'OverTime']
-    fv = fv[feature_cols]
-    fv_scaled = scaler.transform(fv)
+    fv_array = np.array(list(feature_vector.values())).reshape(1, -1)
+    fv_scaled = scaler.transform(fv_array)
     prob = model.predict_proba(fv_scaled)[0][1]
 
     color = "🔴" if prob > 0.5 else "🟡" if prob > 0.3 else "🟢"
