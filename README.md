@@ -33,3 +33,11 @@ HR teams lose significant time and money to unexpected attrition. This project a
 Logistic Regression selected as primary model due to superior recall on the minority class (37/47 at-risk employees correctly identified).
 
 ## Project Structure
+
+## Live Demo
+[Click here to view the live app](https://employee-attrition-shranika.streamlit.app)
+
+## Author
+Shranika Vaidya — Data Science Portfolio Project
+
+GitHub: https://github.com/Shranika-vaidya/employee-attrition-ds-project
